@@ -3,7 +3,7 @@
 Dark Forest é um jogo simples de desviar de obstáculos feito em Java com o auxilio da biblioteca LibGDX para um projeto acadêmico na matéria optativa de Desenvolvimento de Jogos.
 
 ## Como iniciar o jogo:
-1. Abrir a pasta Dark Forest no VSCode ou outra IDE capaz de compilar projetos em Java. É importante que "Dark Forest" seja a pasta raiz do projeto.
+1. Abrir a pasta Dark Forest no VSCode ou outra IDE capaz de compilar projetos em Java. É importante que "Dark Forest" (ou "Dark-Forest-main") seja a pasta raiz do projeto.
 2. Selecionar o arquivo Game.java, este será o inicializador da aplicação
 3. Executar a aplicação (no caso do VSCode, clicando no botão de play no canto superior direito
 
